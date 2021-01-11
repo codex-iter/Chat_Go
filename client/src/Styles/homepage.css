@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: xx-large;
+  background-color: #121212fa;
+}
+h1 {
+  text-shadow: 2px 2px blueviolet;
+}
